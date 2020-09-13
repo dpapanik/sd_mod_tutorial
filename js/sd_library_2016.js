@@ -1,3 +1,5 @@
+// Copyright Dimitris Papanikolaou 2016
+
 var defaultTimeline = 144,
     stockCounter = 0,
     flowCounter = 0,
